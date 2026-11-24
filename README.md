@@ -26,6 +26,3 @@ streamlit run employee_burnout.py
 
 ## Author
 Hanna Haneef
-
-## Author
-Hanna Haneef
