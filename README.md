@@ -1,4 +1,4 @@
-# Employee-Burnout-Predictiom
+# Employee-Burnout-Prediction
 Streamlit ML app that predicts employee burnout risk
 ## About the project
 Burnout affects productivity and wellbeing. This project uses machine learning to flag burnout risk from details like work hours, sleep, commute time and work-life balance.
