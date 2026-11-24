@@ -21,8 +21,10 @@ Python • Pandas • NumPy • Scikit-learn • Streamlit
 - requirements.txt: dependencies
 
 ## Run it locally
+```
 pip install -r requirements.txt
 streamlit run employee_burnout.py
+```
 
 ## Author
 Hanna Haneef
